@@ -1,6 +1,7 @@
 package org.openshift.mlbparks.domain;
 
 public class MLBPark {
+	//test
 	private Object name;
 	private Object position;
 	private Object id;
